@@ -1,6 +1,11 @@
 package cadenasjava03;
 
 import java.io.*;
+/**
+ * 
+ * @author kevin
+ * Clase teclado que permite la lectura de datos por teclado
+ */
 
 public class Teclado
 {
